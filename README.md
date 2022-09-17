@@ -1,6 +1,6 @@
 # Caloree Database
 
-Database for [Caloree](https://github.com/StefanosTouf/caloree-server)
+Database for [Caloree](https://github.com/StefanosTouf/caloree-cli)
 
 ## Getting the container
 
